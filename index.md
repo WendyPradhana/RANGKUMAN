@@ -235,5 +235,3 @@ sebuah grafik
 
 Grafik menggambarkan kecenderungan radiasi
 antena pada arah/tempat tertentu
-
-# 
